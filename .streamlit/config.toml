@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FFD700"  # Gold
+backgroundColor="#000000"  # Black
+secondaryBackgroundColor="#1C1C1C"  # Dark Gray
+textColor="#FFFFFF"  # White
+font="serif"
